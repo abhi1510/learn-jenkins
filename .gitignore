@@ -1,0 +1,5 @@
+db_data/
+jenkins_home/
+remote-key
+remote-key.pub
+gitlab/
