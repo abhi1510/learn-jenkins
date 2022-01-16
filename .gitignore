@@ -3,3 +3,7 @@ jenkins_home/
 remote-key
 remote-key.pub
 gitlab/
+
+__pycache__.
+.vscode/
+
